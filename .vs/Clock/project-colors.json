@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b8309b05-7ece-4262-9c94-3f3669aff8c5": {
+      "ProjectGuid": "b8309b05-7ece-4262-9c94-3f3669aff8c5",
+      "DisplayName": "Clock",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
